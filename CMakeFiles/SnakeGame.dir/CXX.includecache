@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kirill/learn_c++/Snake/snake.cpp
+iostream
+-
+Board.h
+-
+Snake.h
+-
+SFML/Graphics.hpp
+-
+SFML/Window.hpp
+-
+
+board/Board.h
+vector
+-
+
+snake/Snake.h
+vector
+-
+

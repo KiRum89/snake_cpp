@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Snake.dir/snake.cpp.o  -o Snake  board/libBoard.a -lsfml-window -lsfml-system -lsfml-graphics 

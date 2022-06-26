@@ -1,0 +1,9 @@
+/home/kirill/learn_c++/Snake/CMakeFiles/rebuild_cache.dir
+/home/kirill/learn_c++/Snake/CMakeFiles/SnakeGame.dir
+/home/kirill/learn_c++/Snake/CMakeFiles/edit_cache.dir
+/home/kirill/learn_c++/Snake/board/CMakeFiles/rebuild_cache.dir
+/home/kirill/learn_c++/Snake/board/CMakeFiles/Board.dir
+/home/kirill/learn_c++/Snake/board/CMakeFiles/edit_cache.dir
+/home/kirill/learn_c++/Snake/snake/CMakeFiles/rebuild_cache.dir
+/home/kirill/learn_c++/Snake/snake/CMakeFiles/Snake.dir
+/home/kirill/learn_c++/Snake/snake/CMakeFiles/edit_cache.dir

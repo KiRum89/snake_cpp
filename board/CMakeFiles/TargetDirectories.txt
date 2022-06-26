@@ -1,0 +1,3 @@
+/home/kirill/learn_c++/Snake/board/CMakeFiles/rebuild_cache.dir
+/home/kirill/learn_c++/Snake/board/CMakeFiles/Board.dir
+/home/kirill/learn_c++/Snake/board/CMakeFiles/edit_cache.dir
