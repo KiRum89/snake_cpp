@@ -7,7 +7,9 @@
 
 using namespace std;
 using namespace b;
-
+/*
+ *comment
+ */
 void drawGridH(Board board, sf::RenderWindow &window){
 		//draw grid
 		//sf::Vertex(sf::Vector2f(board.width,i*board.dims[1]))};
